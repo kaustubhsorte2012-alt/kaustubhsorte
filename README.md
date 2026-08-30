@@ -14,3 +14,8 @@ Assingnment 3 - Task 5 :  Calculate Factorial Using a Function , Task 6 : Using 
 
 
 Assingnment 4 - Task 7 : read a file and handle error , Task 8 : write and append a data to the file
+
+
+
+Assingnmemt 5  - Task 9 : Create a Dictionary of Student Marks , Task 10 : Demonstrate List Slicing 
+
